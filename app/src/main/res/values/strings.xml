@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit CONV</string>
+    <string name="unit_converter">UNIT CONVERTER</string>
+    <string name="submit_btn">TO MILE</string>
+    <string name="submit_btn_gb">TO GB</string>
+    <string name="submit_btn_mb">TO MB</string>
+    <string name="user_input">Enter Value</string>
+    <string name="textview">TextView</string>
+</resources>
